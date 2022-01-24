@@ -5,4 +5,12 @@ PyBer is Python based ride sharing application. V. Isualize wants an analysis of
 
 ## Results
 
+The total amount of rides and drivers is larger for urban than suburban and rural. The largest total fares is urban, followed by suburban then rural. The average fare per ride iss lower for urban than suburban and rural, and average fare per driver is lower for urban than suburban and rural.
+
+### PyBer Summary by City Type
+![Screenshot of PyBer summary by city types](Screenshots/screenshot_of_pyber_summary.png)
+
+### Total Weekly Fares by City Type
+![Total weekly fares for each city type](analysis/PyBer_fare_summary.png)
+
 ## Summary
