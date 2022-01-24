@@ -14,3 +14,5 @@ The total amount of rides and drivers is larger for urban than suburban and rura
 ![Total weekly fares for each city type](analysis/PyBer_fare_summary.png)
 
 ## Summary
+
+According to the data, urban uses ride sharing the most and rural the least. Urban cities have more uses for ride sharing since people live close to each other and travel can be costly. This is evident from the average fare per ride for urban is the lowest. Considering the data, it may make sense to narrow the disparities among city types. Three business recommendations to the CEO for addressing these disparities are to decrease drivers in urban cities, to increase price for urban cities, and to increase drivers in suburdan and rural cities. To further this analysis, drive trip data would give insight to how far rides are for each city type.
